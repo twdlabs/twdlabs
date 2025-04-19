@@ -1,7 +1,7 @@
 
 - 🌱 Learning: front-end programming, back-end programming, and database design
 
-- 👀 Interests: computer science, music theory, statistics, psychometrics, economics, philosophy
+- 👀 Interests: mathematics, computer science, music theory, statistics, psychometrics, economics, creative design, philosophy
 
 - 📫 Reach out: @titusgzz
 
