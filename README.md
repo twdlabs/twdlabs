@@ -1,9 +1,9 @@
 
-- 🌱 Currently learning about front-end programming, back-end programming, and database design
+- 🌱 Learning: front-end programming, back-end programming, and database design
 
-- 👀 Interested in almost everything under the sun: computer science, music theory, philosophy, psychometrics, probability theory, economics, and many other things !
+- 👀 Interests: computer science, music theory, statistics, psychometrics, economics, philosophy
 
-- 📫 Feel free to reach out: tituswebdev+git@gmail.com
+- 📫 Reach out: @titusgzz
 
 <!---
 atg973/atg973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
